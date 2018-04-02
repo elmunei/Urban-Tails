@@ -14,6 +14,27 @@
 		8552FA3120726FF30084BC12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8552FA2F20726FF30084BC12 /* LaunchScreen.storyboard */; };
 		8552FA3C20726FF40084BC12 /* Urban_TailsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA3B20726FF40084BC12 /* Urban_TailsTests.swift */; };
 		8552FA4720726FF40084BC12 /* Urban_TailsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA4620726FF40084BC12 /* Urban_TailsUITests.swift */; };
+		8552FA5C2072CF420084BC12 /* CustomizableTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA552072CF420084BC12 /* CustomizableTextfield.swift */; };
+		8552FA5D2072CF420084BC12 /* CustomizableTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA552072CF420084BC12 /* CustomizableTextfield.swift */; };
+		8552FA5E2072CF420084BC12 /* CustomizableTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA552072CF420084BC12 /* CustomizableTextfield.swift */; };
+		8552FA5F2072CF420084BC12 /* BadgeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA562072CF420084BC12 /* BadgeButton.swift */; };
+		8552FA602072CF420084BC12 /* BadgeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA562072CF420084BC12 /* BadgeButton.swift */; };
+		8552FA612072CF420084BC12 /* BadgeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA562072CF420084BC12 /* BadgeButton.swift */; };
+		8552FA622072CF420084BC12 /* BlurVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA572072CF420084BC12 /* BlurVC.swift */; };
+		8552FA632072CF420084BC12 /* BlurVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA572072CF420084BC12 /* BlurVC.swift */; };
+		8552FA642072CF420084BC12 /* BlurVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA572072CF420084BC12 /* BlurVC.swift */; };
+		8552FA652072CF420084BC12 /* CustomizableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA582072CF420084BC12 /* CustomizableImageView.swift */; };
+		8552FA662072CF420084BC12 /* CustomizableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA582072CF420084BC12 /* CustomizableImageView.swift */; };
+		8552FA672072CF420084BC12 /* CustomizableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA582072CF420084BC12 /* CustomizableImageView.swift */; };
+		8552FA682072CF420084BC12 /* CustomizableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA592072CF420084BC12 /* CustomizableView.swift */; };
+		8552FA692072CF420084BC12 /* CustomizableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA592072CF420084BC12 /* CustomizableView.swift */; };
+		8552FA6A2072CF420084BC12 /* CustomizableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA592072CF420084BC12 /* CustomizableView.swift */; };
+		8552FA6B2072CF420084BC12 /* CustomizableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5A2072CF420084BC12 /* CustomizableButton.swift */; };
+		8552FA6C2072CF420084BC12 /* CustomizableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5A2072CF420084BC12 /* CustomizableButton.swift */; };
+		8552FA6D2072CF420084BC12 /* CustomizableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5A2072CF420084BC12 /* CustomizableButton.swift */; };
+		8552FA6E2072CF420084BC12 /* ETRadioButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5B2072CF420084BC12 /* ETRadioButton.swift */; };
+		8552FA6F2072CF420084BC12 /* ETRadioButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5B2072CF420084BC12 /* ETRadioButton.swift */; };
+		8552FA702072CF420084BC12 /* ETRadioButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5B2072CF420084BC12 /* ETRadioButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +68,13 @@
 		8552FA4220726FF40084BC12 /* Urban TailsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Urban TailsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8552FA4620726FF40084BC12 /* Urban_TailsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Urban_TailsUITests.swift; sourceTree = "<group>"; };
 		8552FA4820726FF40084BC12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8552FA552072CF420084BC12 /* CustomizableTextfield.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomizableTextfield.swift; sourceTree = "<group>"; };
+		8552FA562072CF420084BC12 /* BadgeButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeButton.swift; sourceTree = "<group>"; };
+		8552FA572072CF420084BC12 /* BlurVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurVC.swift; sourceTree = "<group>"; };
+		8552FA582072CF420084BC12 /* CustomizableImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomizableImageView.swift; sourceTree = "<group>"; };
+		8552FA592072CF420084BC12 /* CustomizableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomizableView.swift; sourceTree = "<group>"; };
+		8552FA5A2072CF420084BC12 /* CustomizableButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomizableButton.swift; sourceTree = "<group>"; };
+		8552FA5B2072CF420084BC12 /* ETRadioButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ETRadioButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +125,7 @@
 		8552FA2520726FF20084BC12 /* Urban Tails */ = {
 			isa = PBXGroup;
 			children = (
+				8552FA542072CEF20084BC12 /* Custom */,
 				8552FA2620726FF20084BC12 /* AppDelegate.swift */,
 				8552FA2820726FF20084BC12 /* ViewController.swift */,
 				8552FA2A20726FF20084BC12 /* Main.storyboard */,
@@ -123,6 +152,20 @@
 				8552FA4820726FF40084BC12 /* Info.plist */,
 			);
 			path = "Urban TailsUITests";
+			sourceTree = "<group>";
+		};
+		8552FA542072CEF20084BC12 /* Custom */ = {
+			isa = PBXGroup;
+			children = (
+				8552FA562072CF420084BC12 /* BadgeButton.swift */,
+				8552FA572072CF420084BC12 /* BlurVC.swift */,
+				8552FA5A2072CF420084BC12 /* CustomizableButton.swift */,
+				8552FA582072CF420084BC12 /* CustomizableImageView.swift */,
+				8552FA552072CF420084BC12 /* CustomizableTextfield.swift */,
+				8552FA592072CF420084BC12 /* CustomizableView.swift */,
+				8552FA5B2072CF420084BC12 /* ETRadioButton.swift */,
+			);
+			path = Custom;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,8 +299,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8552FA652072CF420084BC12 /* CustomizableImageView.swift in Sources */,
+				8552FA6B2072CF420084BC12 /* CustomizableButton.swift in Sources */,
+				8552FA682072CF420084BC12 /* CustomizableView.swift in Sources */,
 				8552FA2920726FF20084BC12 /* ViewController.swift in Sources */,
+				8552FA622072CF420084BC12 /* BlurVC.swift in Sources */,
 				8552FA2720726FF20084BC12 /* AppDelegate.swift in Sources */,
+				8552FA5C2072CF420084BC12 /* CustomizableTextfield.swift in Sources */,
+				8552FA5F2072CF420084BC12 /* BadgeButton.swift in Sources */,
+				8552FA6E2072CF420084BC12 /* ETRadioButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +315,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8552FA6C2072CF420084BC12 /* CustomizableButton.swift in Sources */,
+				8552FA662072CF420084BC12 /* CustomizableImageView.swift in Sources */,
+				8552FA6F2072CF420084BC12 /* ETRadioButton.swift in Sources */,
+				8552FA602072CF420084BC12 /* BadgeButton.swift in Sources */,
+				8552FA692072CF420084BC12 /* CustomizableView.swift in Sources */,
+				8552FA632072CF420084BC12 /* BlurVC.swift in Sources */,
 				8552FA3C20726FF40084BC12 /* Urban_TailsTests.swift in Sources */,
+				8552FA5D2072CF420084BC12 /* CustomizableTextfield.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +330,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8552FA6D2072CF420084BC12 /* CustomizableButton.swift in Sources */,
+				8552FA672072CF420084BC12 /* CustomizableImageView.swift in Sources */,
+				8552FA702072CF420084BC12 /* ETRadioButton.swift in Sources */,
+				8552FA612072CF420084BC12 /* BadgeButton.swift in Sources */,
+				8552FA6A2072CF420084BC12 /* CustomizableView.swift in Sources */,
+				8552FA642072CF420084BC12 /* BlurVC.swift in Sources */,
 				8552FA4720726FF40084BC12 /* Urban_TailsUITests.swift in Sources */,
+				8552FA5E2072CF420084BC12 /* CustomizableTextfield.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,7 +504,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-Tails";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -458,7 +522,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-Tails";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
