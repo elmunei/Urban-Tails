@@ -1,0 +1,589 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8552FA2720726FF20084BC12 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA2620726FF20084BC12 /* AppDelegate.swift */; };
+		8552FA2920726FF20084BC12 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA2820726FF20084BC12 /* ViewController.swift */; };
+		8552FA2C20726FF20084BC12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8552FA2A20726FF20084BC12 /* Main.storyboard */; };
+		8552FA2E20726FF30084BC12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8552FA2D20726FF30084BC12 /* Assets.xcassets */; };
+		8552FA3120726FF30084BC12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8552FA2F20726FF30084BC12 /* LaunchScreen.storyboard */; };
+		8552FA3C20726FF40084BC12 /* Urban_TailsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA3B20726FF40084BC12 /* Urban_TailsTests.swift */; };
+		8552FA4720726FF40084BC12 /* Urban_TailsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA4620726FF40084BC12 /* Urban_TailsUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8552FA3820726FF40084BC12 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8552FA1B20726FF20084BC12 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8552FA2220726FF20084BC12;
+			remoteInfo = "Urban Tails";
+		};
+		8552FA4320726FF40084BC12 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8552FA1B20726FF20084BC12 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8552FA2220726FF20084BC12;
+			remoteInfo = "Urban Tails";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8552FA2320726FF20084BC12 /* Urban Tails.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Urban Tails.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8552FA2620726FF20084BC12 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8552FA2820726FF20084BC12 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8552FA2B20726FF20084BC12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8552FA2D20726FF30084BC12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8552FA3020726FF30084BC12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8552FA3220726FF30084BC12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8552FA3720726FF40084BC12 /* Urban TailsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Urban TailsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8552FA3B20726FF40084BC12 /* Urban_TailsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Urban_TailsTests.swift; sourceTree = "<group>"; };
+		8552FA3D20726FF40084BC12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8552FA4220726FF40084BC12 /* Urban TailsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Urban TailsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8552FA4620726FF40084BC12 /* Urban_TailsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Urban_TailsUITests.swift; sourceTree = "<group>"; };
+		8552FA4820726FF40084BC12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8552FA2020726FF20084BC12 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8552FA3420726FF40084BC12 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8552FA3F20726FF40084BC12 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8552FA1A20726FF20084BC12 = {
+			isa = PBXGroup;
+			children = (
+				8552FA2520726FF20084BC12 /* Urban Tails */,
+				8552FA3A20726FF40084BC12 /* Urban TailsTests */,
+				8552FA4520726FF40084BC12 /* Urban TailsUITests */,
+				8552FA2420726FF20084BC12 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8552FA2420726FF20084BC12 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8552FA2320726FF20084BC12 /* Urban Tails.app */,
+				8552FA3720726FF40084BC12 /* Urban TailsTests.xctest */,
+				8552FA4220726FF40084BC12 /* Urban TailsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8552FA2520726FF20084BC12 /* Urban Tails */ = {
+			isa = PBXGroup;
+			children = (
+				8552FA2620726FF20084BC12 /* AppDelegate.swift */,
+				8552FA2820726FF20084BC12 /* ViewController.swift */,
+				8552FA2A20726FF20084BC12 /* Main.storyboard */,
+				8552FA2D20726FF30084BC12 /* Assets.xcassets */,
+				8552FA2F20726FF30084BC12 /* LaunchScreen.storyboard */,
+				8552FA3220726FF30084BC12 /* Info.plist */,
+			);
+			path = "Urban Tails";
+			sourceTree = "<group>";
+		};
+		8552FA3A20726FF40084BC12 /* Urban TailsTests */ = {
+			isa = PBXGroup;
+			children = (
+				8552FA3B20726FF40084BC12 /* Urban_TailsTests.swift */,
+				8552FA3D20726FF40084BC12 /* Info.plist */,
+			);
+			path = "Urban TailsTests";
+			sourceTree = "<group>";
+		};
+		8552FA4520726FF40084BC12 /* Urban TailsUITests */ = {
+			isa = PBXGroup;
+			children = (
+				8552FA4620726FF40084BC12 /* Urban_TailsUITests.swift */,
+				8552FA4820726FF40084BC12 /* Info.plist */,
+			);
+			path = "Urban TailsUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8552FA2220726FF20084BC12 /* Urban Tails */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8552FA4B20726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban Tails" */;
+			buildPhases = (
+				8552FA1F20726FF20084BC12 /* Sources */,
+				8552FA2020726FF20084BC12 /* Frameworks */,
+				8552FA2120726FF20084BC12 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Urban Tails";
+			productName = "Urban Tails";
+			productReference = 8552FA2320726FF20084BC12 /* Urban Tails.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8552FA3620726FF40084BC12 /* Urban TailsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8552FA4E20726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban TailsTests" */;
+			buildPhases = (
+				8552FA3320726FF40084BC12 /* Sources */,
+				8552FA3420726FF40084BC12 /* Frameworks */,
+				8552FA3520726FF40084BC12 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8552FA3920726FF40084BC12 /* PBXTargetDependency */,
+			);
+			name = "Urban TailsTests";
+			productName = "Urban TailsTests";
+			productReference = 8552FA3720726FF40084BC12 /* Urban TailsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8552FA4120726FF40084BC12 /* Urban TailsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8552FA5120726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban TailsUITests" */;
+			buildPhases = (
+				8552FA3E20726FF40084BC12 /* Sources */,
+				8552FA3F20726FF40084BC12 /* Frameworks */,
+				8552FA4020726FF40084BC12 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8552FA4420726FF40084BC12 /* PBXTargetDependency */,
+			);
+			name = "Urban TailsUITests";
+			productName = "Urban TailsUITests";
+			productReference = 8552FA4220726FF40084BC12 /* Urban TailsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8552FA1B20726FF20084BC12 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+				ORGANIZATIONNAME = "Elvis Tapfumanei";
+				TargetAttributes = {
+					8552FA2220726FF20084BC12 = {
+						CreatedOnToolsVersion = 9.3;
+					};
+					8552FA3620726FF40084BC12 = {
+						CreatedOnToolsVersion = 9.3;
+						TestTargetID = 8552FA2220726FF20084BC12;
+					};
+					8552FA4120726FF40084BC12 = {
+						CreatedOnToolsVersion = 9.3;
+						TestTargetID = 8552FA2220726FF20084BC12;
+					};
+				};
+			};
+			buildConfigurationList = 8552FA1E20726FF20084BC12 /* Build configuration list for PBXProject "Urban Tails" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8552FA1A20726FF20084BC12;
+			productRefGroup = 8552FA2420726FF20084BC12 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8552FA2220726FF20084BC12 /* Urban Tails */,
+				8552FA3620726FF40084BC12 /* Urban TailsTests */,
+				8552FA4120726FF40084BC12 /* Urban TailsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8552FA2120726FF20084BC12 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8552FA3120726FF30084BC12 /* LaunchScreen.storyboard in Resources */,
+				8552FA2E20726FF30084BC12 /* Assets.xcassets in Resources */,
+				8552FA2C20726FF20084BC12 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8552FA3520726FF40084BC12 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8552FA4020726FF40084BC12 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8552FA1F20726FF20084BC12 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8552FA2920726FF20084BC12 /* ViewController.swift in Sources */,
+				8552FA2720726FF20084BC12 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8552FA3320726FF40084BC12 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8552FA3C20726FF40084BC12 /* Urban_TailsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8552FA3E20726FF40084BC12 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8552FA4720726FF40084BC12 /* Urban_TailsUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8552FA3920726FF40084BC12 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8552FA2220726FF20084BC12 /* Urban Tails */;
+			targetProxy = 8552FA3820726FF40084BC12 /* PBXContainerItemProxy */;
+		};
+		8552FA4420726FF40084BC12 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8552FA2220726FF20084BC12 /* Urban Tails */;
+			targetProxy = 8552FA4320726FF40084BC12 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8552FA2A20726FF20084BC12 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8552FA2B20726FF20084BC12 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8552FA2F20726FF30084BC12 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8552FA3020726FF30084BC12 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8552FA4920726FF40084BC12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8552FA4A20726FF40084BC12 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8552FA4C20726FF40084BC12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GUJHFYRL49;
+				INFOPLIST_FILE = "Urban Tails/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-Tails";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8552FA4D20726FF40084BC12 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GUJHFYRL49;
+				INFOPLIST_FILE = "Urban Tails/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-Tails";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8552FA4F20726FF40084BC12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GUJHFYRL49;
+				INFOPLIST_FILE = "Urban TailsTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-TailsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Urban Tails.app/Urban Tails";
+			};
+			name = Debug;
+		};
+		8552FA5020726FF40084BC12 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GUJHFYRL49;
+				INFOPLIST_FILE = "Urban TailsTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-TailsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Urban Tails.app/Urban Tails";
+			};
+			name = Release;
+		};
+		8552FA5220726FF40084BC12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GUJHFYRL49;
+				INFOPLIST_FILE = "Urban TailsUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-TailsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Urban Tails";
+			};
+			name = Debug;
+		};
+		8552FA5320726FF40084BC12 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GUJHFYRL49;
+				INFOPLIST_FILE = "Urban TailsUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-TailsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Urban Tails";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8552FA1E20726FF20084BC12 /* Build configuration list for PBXProject "Urban Tails" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8552FA4920726FF40084BC12 /* Debug */,
+				8552FA4A20726FF40084BC12 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8552FA4B20726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban Tails" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8552FA4C20726FF40084BC12 /* Debug */,
+				8552FA4D20726FF40084BC12 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8552FA4E20726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban TailsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8552FA4F20726FF40084BC12 /* Debug */,
+				8552FA5020726FF40084BC12 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8552FA5120726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban TailsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8552FA5220726FF40084BC12 /* Debug */,
+				8552FA5320726FF40084BC12 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8552FA1B20726FF20084BC12 /* Project object */;
+}
