@@ -7,54 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F46588330C8B9FE0A42C450 /* Pods_Urban_Tails.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F41B954AC263DF5D8F337E0E /* Pods_Urban_Tails.framework */; };
 		8552FA2720726FF20084BC12 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA2620726FF20084BC12 /* AppDelegate.swift */; };
 		8552FA2920726FF20084BC12 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA2820726FF20084BC12 /* ViewController.swift */; };
 		8552FA2C20726FF20084BC12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8552FA2A20726FF20084BC12 /* Main.storyboard */; };
 		8552FA2E20726FF30084BC12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8552FA2D20726FF30084BC12 /* Assets.xcassets */; };
 		8552FA3120726FF30084BC12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8552FA2F20726FF30084BC12 /* LaunchScreen.storyboard */; };
-		8552FA3C20726FF40084BC12 /* Urban_TailsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA3B20726FF40084BC12 /* Urban_TailsTests.swift */; };
-		8552FA4720726FF40084BC12 /* Urban_TailsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA4620726FF40084BC12 /* Urban_TailsUITests.swift */; };
 		8552FA5C2072CF420084BC12 /* CustomizableTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA552072CF420084BC12 /* CustomizableTextfield.swift */; };
-		8552FA5D2072CF420084BC12 /* CustomizableTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA552072CF420084BC12 /* CustomizableTextfield.swift */; };
-		8552FA5E2072CF420084BC12 /* CustomizableTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA552072CF420084BC12 /* CustomizableTextfield.swift */; };
 		8552FA5F2072CF420084BC12 /* BadgeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA562072CF420084BC12 /* BadgeButton.swift */; };
-		8552FA602072CF420084BC12 /* BadgeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA562072CF420084BC12 /* BadgeButton.swift */; };
-		8552FA612072CF420084BC12 /* BadgeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA562072CF420084BC12 /* BadgeButton.swift */; };
 		8552FA622072CF420084BC12 /* BlurVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA572072CF420084BC12 /* BlurVC.swift */; };
-		8552FA632072CF420084BC12 /* BlurVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA572072CF420084BC12 /* BlurVC.swift */; };
-		8552FA642072CF420084BC12 /* BlurVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA572072CF420084BC12 /* BlurVC.swift */; };
 		8552FA652072CF420084BC12 /* CustomizableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA582072CF420084BC12 /* CustomizableImageView.swift */; };
-		8552FA662072CF420084BC12 /* CustomizableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA582072CF420084BC12 /* CustomizableImageView.swift */; };
-		8552FA672072CF420084BC12 /* CustomizableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA582072CF420084BC12 /* CustomizableImageView.swift */; };
 		8552FA682072CF420084BC12 /* CustomizableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA592072CF420084BC12 /* CustomizableView.swift */; };
-		8552FA692072CF420084BC12 /* CustomizableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA592072CF420084BC12 /* CustomizableView.swift */; };
-		8552FA6A2072CF420084BC12 /* CustomizableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA592072CF420084BC12 /* CustomizableView.swift */; };
 		8552FA6B2072CF420084BC12 /* CustomizableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5A2072CF420084BC12 /* CustomizableButton.swift */; };
-		8552FA6C2072CF420084BC12 /* CustomizableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5A2072CF420084BC12 /* CustomizableButton.swift */; };
-		8552FA6D2072CF420084BC12 /* CustomizableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5A2072CF420084BC12 /* CustomizableButton.swift */; };
 		8552FA6E2072CF420084BC12 /* ETRadioButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5B2072CF420084BC12 /* ETRadioButton.swift */; };
-		8552FA6F2072CF420084BC12 /* ETRadioButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5B2072CF420084BC12 /* ETRadioButton.swift */; };
-		8552FA702072CF420084BC12 /* ETRadioButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA5B2072CF420084BC12 /* ETRadioButton.swift */; };
+		8552FA722073D3280084BC12 /* AddServiceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8552FA712073D3280084BC12 /* AddServiceVC.swift */; };
+		85A6F09F2076570700ED53BF /* ReviewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A6F09E2076570700ED53BF /* ReviewVC.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		8552FA3820726FF40084BC12 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 8552FA1B20726FF20084BC12 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 8552FA2220726FF20084BC12;
-			remoteInfo = "Urban Tails";
-		};
-		8552FA4320726FF40084BC12 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 8552FA1B20726FF20084BC12 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 8552FA2220726FF20084BC12;
-			remoteInfo = "Urban Tails";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		11D0F389690F723E9D399826 /* Pods-Urban TailsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Urban TailsUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Urban TailsUITests/Pods-Urban TailsUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		203A3761D1FF7E54A8ECC159 /* Pods-Urban TailsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Urban TailsTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Urban TailsTests/Pods-Urban TailsTests.release.xcconfig"; sourceTree = "<group>"; };
+		42F7A7F714D3EB8EAEDBF53A /* Pods-Urban Tails.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Urban Tails.release.xcconfig"; path = "Pods/Target Support Files/Pods-Urban Tails/Pods-Urban Tails.release.xcconfig"; sourceTree = "<group>"; };
+		54AFD91E1E33B121F03876B2 /* Pods-Urban Tails.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Urban Tails.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Urban Tails/Pods-Urban Tails.debug.xcconfig"; sourceTree = "<group>"; };
 		8552FA2320726FF20084BC12 /* Urban Tails.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Urban Tails.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8552FA2620726FF20084BC12 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8552FA2820726FF20084BC12 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,12 +36,6 @@
 		8552FA2D20726FF30084BC12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8552FA3020726FF30084BC12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8552FA3220726FF30084BC12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8552FA3720726FF40084BC12 /* Urban TailsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Urban TailsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8552FA3B20726FF40084BC12 /* Urban_TailsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Urban_TailsTests.swift; sourceTree = "<group>"; };
-		8552FA3D20726FF40084BC12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8552FA4220726FF40084BC12 /* Urban TailsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Urban TailsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8552FA4620726FF40084BC12 /* Urban_TailsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Urban_TailsUITests.swift; sourceTree = "<group>"; };
-		8552FA4820726FF40084BC12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8552FA552072CF420084BC12 /* CustomizableTextfield.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomizableTextfield.swift; sourceTree = "<group>"; };
 		8552FA562072CF420084BC12 /* BadgeButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeButton.swift; sourceTree = "<group>"; };
 		8552FA572072CF420084BC12 /* BlurVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurVC.swift; sourceTree = "<group>"; };
@@ -75,6 +43,13 @@
 		8552FA592072CF420084BC12 /* CustomizableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomizableView.swift; sourceTree = "<group>"; };
 		8552FA5A2072CF420084BC12 /* CustomizableButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomizableButton.swift; sourceTree = "<group>"; };
 		8552FA5B2072CF420084BC12 /* ETRadioButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ETRadioButton.swift; sourceTree = "<group>"; };
+		8552FA712073D3280084BC12 /* AddServiceVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddServiceVC.swift; sourceTree = "<group>"; };
+		85A6F09E2076570700ED53BF /* ReviewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewVC.swift; sourceTree = "<group>"; };
+		AD010FBBB5F4B8754681800B /* Pods_Urban_TailsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Urban_TailsUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFD6226189E29D4933D60ADF /* Pods-Urban TailsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Urban TailsUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Urban TailsUITests/Pods-Urban TailsUITests.release.xcconfig"; sourceTree = "<group>"; };
+		B29273D9760533AD9629EF47 /* Pods-Urban TailsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Urban TailsTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Urban TailsTests/Pods-Urban TailsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		CF7B908291B15C13E04718BB /* Pods_Urban_TailsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Urban_TailsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F41B954AC263DF5D8F337E0E /* Pods_Urban_Tails.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Urban_Tails.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,33 +57,33 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8552FA3420726FF40084BC12 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8552FA3F20726FF40084BC12 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				5F46588330C8B9FE0A42C450 /* Pods_Urban_Tails.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2D03272519C5C7C02C03446F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				54AFD91E1E33B121F03876B2 /* Pods-Urban Tails.debug.xcconfig */,
+				42F7A7F714D3EB8EAEDBF53A /* Pods-Urban Tails.release.xcconfig */,
+				B29273D9760533AD9629EF47 /* Pods-Urban TailsTests.debug.xcconfig */,
+				203A3761D1FF7E54A8ECC159 /* Pods-Urban TailsTests.release.xcconfig */,
+				11D0F389690F723E9D399826 /* Pods-Urban TailsUITests.debug.xcconfig */,
+				AFD6226189E29D4933D60ADF /* Pods-Urban TailsUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		8552FA1A20726FF20084BC12 = {
 			isa = PBXGroup;
 			children = (
 				8552FA2520726FF20084BC12 /* Urban Tails */,
-				8552FA3A20726FF40084BC12 /* Urban TailsTests */,
-				8552FA4520726FF40084BC12 /* Urban TailsUITests */,
 				8552FA2420726FF20084BC12 /* Products */,
+				2D03272519C5C7C02C03446F /* Pods */,
+				BFF99497895A373FD4A5BB77 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -116,8 +91,6 @@
 			isa = PBXGroup;
 			children = (
 				8552FA2320726FF20084BC12 /* Urban Tails.app */,
-				8552FA3720726FF40084BC12 /* Urban TailsTests.xctest */,
-				8552FA4220726FF40084BC12 /* Urban TailsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -132,26 +105,10 @@
 				8552FA2D20726FF30084BC12 /* Assets.xcassets */,
 				8552FA2F20726FF30084BC12 /* LaunchScreen.storyboard */,
 				8552FA3220726FF30084BC12 /* Info.plist */,
+				8552FA712073D3280084BC12 /* AddServiceVC.swift */,
+				85A6F09E2076570700ED53BF /* ReviewVC.swift */,
 			);
 			path = "Urban Tails";
-			sourceTree = "<group>";
-		};
-		8552FA3A20726FF40084BC12 /* Urban TailsTests */ = {
-			isa = PBXGroup;
-			children = (
-				8552FA3B20726FF40084BC12 /* Urban_TailsTests.swift */,
-				8552FA3D20726FF40084BC12 /* Info.plist */,
-			);
-			path = "Urban TailsTests";
-			sourceTree = "<group>";
-		};
-		8552FA4520726FF40084BC12 /* Urban TailsUITests */ = {
-			isa = PBXGroup;
-			children = (
-				8552FA4620726FF40084BC12 /* Urban_TailsUITests.swift */,
-				8552FA4820726FF40084BC12 /* Info.plist */,
-			);
-			path = "Urban TailsUITests";
 			sourceTree = "<group>";
 		};
 		8552FA542072CEF20084BC12 /* Custom */ = {
@@ -168,6 +125,16 @@
 			path = Custom;
 			sourceTree = "<group>";
 		};
+		BFF99497895A373FD4A5BB77 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F41B954AC263DF5D8F337E0E /* Pods_Urban_Tails.framework */,
+				CF7B908291B15C13E04718BB /* Pods_Urban_TailsTests.framework */,
+				AD010FBBB5F4B8754681800B /* Pods_Urban_TailsUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -175,9 +142,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8552FA4B20726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban Tails" */;
 			buildPhases = (
+				2DB3F66F57594AF046E22F53 /* [CP] Check Pods Manifest.lock */,
 				8552FA1F20726FF20084BC12 /* Sources */,
 				8552FA2020726FF20084BC12 /* Frameworks */,
 				8552FA2120726FF20084BC12 /* Resources */,
+				AC2DC9ADEDD3E6BA129F74D9 /* [CP] Embed Pods Frameworks */,
+				ADDCCC272DD7D703F3F84BE8 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -187,42 +157,6 @@
 			productName = "Urban Tails";
 			productReference = 8552FA2320726FF20084BC12 /* Urban Tails.app */;
 			productType = "com.apple.product-type.application";
-		};
-		8552FA3620726FF40084BC12 /* Urban TailsTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8552FA4E20726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban TailsTests" */;
-			buildPhases = (
-				8552FA3320726FF40084BC12 /* Sources */,
-				8552FA3420726FF40084BC12 /* Frameworks */,
-				8552FA3520726FF40084BC12 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8552FA3920726FF40084BC12 /* PBXTargetDependency */,
-			);
-			name = "Urban TailsTests";
-			productName = "Urban TailsTests";
-			productReference = 8552FA3720726FF40084BC12 /* Urban TailsTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		8552FA4120726FF40084BC12 /* Urban TailsUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8552FA5120726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban TailsUITests" */;
-			buildPhases = (
-				8552FA3E20726FF40084BC12 /* Sources */,
-				8552FA3F20726FF40084BC12 /* Frameworks */,
-				8552FA4020726FF40084BC12 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8552FA4420726FF40084BC12 /* PBXTargetDependency */,
-			);
-			name = "Urban TailsUITests";
-			productName = "Urban TailsUITests";
-			productReference = 8552FA4220726FF40084BC12 /* Urban TailsUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
@@ -236,14 +170,6 @@
 				TargetAttributes = {
 					8552FA2220726FF20084BC12 = {
 						CreatedOnToolsVersion = 9.3;
-					};
-					8552FA3620726FF40084BC12 = {
-						CreatedOnToolsVersion = 9.3;
-						TestTargetID = 8552FA2220726FF20084BC12;
-					};
-					8552FA4120726FF40084BC12 = {
-						CreatedOnToolsVersion = 9.3;
-						TestTargetID = 8552FA2220726FF20084BC12;
 					};
 				};
 			};
@@ -261,8 +187,6 @@
 			projectRoot = "";
 			targets = (
 				8552FA2220726FF20084BC12 /* Urban Tails */,
-				8552FA3620726FF40084BC12 /* Urban TailsTests */,
-				8552FA4120726FF40084BC12 /* Urban TailsUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -278,21 +202,84 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8552FA3520726FF40084BC12 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8552FA4020726FF40084BC12 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2DB3F66F57594AF046E22F53 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Urban Tails-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AC2DC9ADEDD3E6BA129F74D9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Urban Tails/Pods-Urban Tails-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/CTKFlagPhoneNumber/CTKFlagPhoneNumber.framework",
+				"${BUILT_PRODUCTS_DIR}/DateTimePicker/DateTimePicker.framework",
+				"${BUILT_PRODUCTS_DIR}/MarqueeLabel/MarqueeLabel.framework",
+				"${BUILT_PRODUCTS_DIR}/NotificationBannerSwift/NotificationBannerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/ProgressHUD/ProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyPickerPopover/SwiftyPickerPopover.framework",
+				"${BUILT_PRODUCTS_DIR}/libPhoneNumber-iOS/libPhoneNumber_iOS.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CTKFlagPhoneNumber.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DateTimePicker.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MarqueeLabel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NotificationBannerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyPickerPopover.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/libPhoneNumber_iOS.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Urban Tails/Pods-Urban Tails-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ADDCCC272DD7D703F3F84BE8 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Urban Tails/Pods-Urban Tails-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Resources/GooglePlacePicker.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlacePicker.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlaces.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Urban Tails/Pods-Urban Tails-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		8552FA1F20726FF20084BC12 /* Sources */ = {
@@ -302,7 +289,9 @@
 				8552FA652072CF420084BC12 /* CustomizableImageView.swift in Sources */,
 				8552FA6B2072CF420084BC12 /* CustomizableButton.swift in Sources */,
 				8552FA682072CF420084BC12 /* CustomizableView.swift in Sources */,
+				85A6F09F2076570700ED53BF /* ReviewVC.swift in Sources */,
 				8552FA2920726FF20084BC12 /* ViewController.swift in Sources */,
+				8552FA722073D3280084BC12 /* AddServiceVC.swift in Sources */,
 				8552FA622072CF420084BC12 /* BlurVC.swift in Sources */,
 				8552FA2720726FF20084BC12 /* AppDelegate.swift in Sources */,
 				8552FA5C2072CF420084BC12 /* CustomizableTextfield.swift in Sources */,
@@ -311,50 +300,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8552FA3320726FF40084BC12 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8552FA6C2072CF420084BC12 /* CustomizableButton.swift in Sources */,
-				8552FA662072CF420084BC12 /* CustomizableImageView.swift in Sources */,
-				8552FA6F2072CF420084BC12 /* ETRadioButton.swift in Sources */,
-				8552FA602072CF420084BC12 /* BadgeButton.swift in Sources */,
-				8552FA692072CF420084BC12 /* CustomizableView.swift in Sources */,
-				8552FA632072CF420084BC12 /* BlurVC.swift in Sources */,
-				8552FA3C20726FF40084BC12 /* Urban_TailsTests.swift in Sources */,
-				8552FA5D2072CF420084BC12 /* CustomizableTextfield.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8552FA3E20726FF40084BC12 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8552FA6D2072CF420084BC12 /* CustomizableButton.swift in Sources */,
-				8552FA672072CF420084BC12 /* CustomizableImageView.swift in Sources */,
-				8552FA702072CF420084BC12 /* ETRadioButton.swift in Sources */,
-				8552FA612072CF420084BC12 /* BadgeButton.swift in Sources */,
-				8552FA6A2072CF420084BC12 /* CustomizableView.swift in Sources */,
-				8552FA642072CF420084BC12 /* BlurVC.swift in Sources */,
-				8552FA4720726FF40084BC12 /* Urban_TailsUITests.swift in Sources */,
-				8552FA5E2072CF420084BC12 /* CustomizableTextfield.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		8552FA3920726FF40084BC12 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 8552FA2220726FF20084BC12 /* Urban Tails */;
-			targetProxy = 8552FA3820726FF40084BC12 /* PBXContainerItemProxy */;
-		};
-		8552FA4420726FF40084BC12 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 8552FA2220726FF20084BC12 /* Urban Tails */;
-			targetProxy = 8552FA4320726FF40084BC12 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		8552FA2A20726FF20084BC12 /* Main.storyboard */ = {
@@ -492,15 +438,13 @@
 		};
 		8552FA4C20726FF40084BC12 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 54AFD91E1E33B121F03876B2 /* Pods-Urban Tails.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GUJHFYRL49;
 				INFOPLIST_FILE = "Urban Tails/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-Tails";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -510,101 +454,17 @@
 		};
 		8552FA4D20726FF40084BC12 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 42F7A7F714D3EB8EAEDBF53A /* Pods-Urban Tails.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GUJHFYRL49;
 				INFOPLIST_FILE = "Urban Tails/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-Tails";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Release;
-		};
-		8552FA4F20726FF40084BC12 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = GUJHFYRL49;
-				INFOPLIST_FILE = "Urban TailsTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-TailsTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Urban Tails.app/Urban Tails";
-			};
-			name = Debug;
-		};
-		8552FA5020726FF40084BC12 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = GUJHFYRL49;
-				INFOPLIST_FILE = "Urban TailsTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-TailsTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Urban Tails.app/Urban Tails";
-			};
-			name = Release;
-		};
-		8552FA5220726FF40084BC12 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = GUJHFYRL49;
-				INFOPLIST_FILE = "Urban TailsUITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-TailsUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Urban Tails";
-			};
-			name = Debug;
-		};
-		8552FA5320726FF40084BC12 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = GUJHFYRL49;
-				INFOPLIST_FILE = "Urban TailsUITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.elmunei.Urban-TailsUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Urban Tails";
 			};
 			name = Release;
 		};
@@ -625,24 +485,6 @@
 			buildConfigurations = (
 				8552FA4C20726FF40084BC12 /* Debug */,
 				8552FA4D20726FF40084BC12 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8552FA4E20726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban TailsTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8552FA4F20726FF40084BC12 /* Debug */,
-				8552FA5020726FF40084BC12 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8552FA5120726FF40084BC12 /* Build configuration list for PBXNativeTarget "Urban TailsUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8552FA5220726FF40084BC12 /* Debug */,
-				8552FA5320726FF40084BC12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
