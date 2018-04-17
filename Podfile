@@ -14,6 +14,7 @@ pod 'GooglePlacePicker'
 pod 'SwiftyPickerPopover'
 pod 'ProgressHUD'
 pod 'SDWebImage'
+pod 'AZSafariCollectionViewLayout'
 
 
 end

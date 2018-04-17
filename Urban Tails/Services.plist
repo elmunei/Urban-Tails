@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Day</key>
+		<string>17</string>
+		<key>Month</key>
+		<string>MAR</string>
+		<key>Service</key>
+		<string>Dog Sitting</string>
+		<key>Time</key>
+		<string>10:30 AM</string>
+		<key>Pstatus</key>
+		<string>Due Payment</string>
+	</dict>
+	<dict>
+		<key>Day</key>
+		<string>21</string>
+		<key>Month</key>
+		<string>JUN</string>
+		<key>Service</key>
+		<string>Horse Sitting</string>
+		<key>Time</key>
+		<string>02:00 PM</string>
+		<key>Pstatus</key>
+		<string>Already Paid</string>
+	</dict>
+	<dict>
+		<key>Day</key>
+		<string>30</string>
+		<key>Month</key>
+		<string>DEC</string>
+		<key>Service</key>
+		<string>Dog Walking</string>
+		<key>Time</key>
+		<string>11:15 AM</string>
+		<key>Pstatus</key>
+		<string>Already Paid</string>
+	</dict>
+	<dict>
+		<key>Day</key>
+		<string>04</string>
+		<key>Month</key>
+		<string>MAY</string>
+		<key>Service</key>
+		<string>Cat Siiting</string>
+		<key>Time</key>
+		<string>07:15 PM</string>
+		<key>Pstatus</key>
+		<string>Due Payment</string>
+	</dict>
+	<dict>
+		<key>Day</key>
+		<string>12</string>
+		<key>Month</key>
+		<string>APR</string>
+		<key>Service</key>
+		<string>Bird Sitting</string>
+		<key>Time</key>
+		<string>05:00PM</string>
+		<key>Pstatus</key>
+		<string>Due Payment</string>
+	</dict>
+</array>
+</plist>
